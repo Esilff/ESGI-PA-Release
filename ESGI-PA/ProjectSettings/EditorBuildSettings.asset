@@ -15,9 +15,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Circuits/Agrias village.unity
     guid: da407919c8bad2748b055d18e391710d
   - enabled: 1
-    path: Assets/Scenes/Circuits/Road 15.unity
-    guid: 003ba3797cf95cb44a3739a3ccba2488
-  - enabled: 1
     path: Assets/Scenes/Circuits/Rok Castle.unity
     guid: d3bc7e1465749dd4bb4fa46a0f76af53
   - enabled: 1
@@ -26,4 +23,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Circuits/Training grounds.unity
     guid: 08ccafdb9ed30d64ba8e8892f2a7c8e3
+  - enabled: 1
+    path: Assets/Scenes/Circuits/Road 15.unity
+    guid: 003ba3797cf95cb44a3739a3ccba2488
   m_configObjects: {}
