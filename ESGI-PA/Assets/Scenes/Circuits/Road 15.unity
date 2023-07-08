@@ -20174,6 +20174,14 @@ PrefabInstance:
       propertyPath: config
       value: 
       objectReference: {fileID: 248591416}
+    - target: {fileID: 6846387436659892121, guid: f4e108148364e6f4facf53e6d6425b45, type: 3}
+      propertyPath: gameConfig
+      value: 
+      objectReference: {fileID: 11400000, guid: 89467c740d5e6be418c316a2f2a8c436, type: 2}
+    - target: {fileID: 7692915371945849573, guid: f4e108148364e6f4facf53e6d6425b45, type: 3}
+      propertyPath: gameConfig
+      value: 
+      objectReference: {fileID: 11400000, guid: 89467c740d5e6be418c316a2f2a8c436, type: 2}
     - target: {fileID: 8015711708084666538, guid: f4e108148364e6f4facf53e6d6425b45, type: 3}
       propertyPath: m_RootOrder
       value: 6

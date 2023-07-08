@@ -1055,7 +1055,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 44ad0fbc9c8f99e46bc1471c38ce0d23, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameConfig: {fileID: 11400000, guid: 89467c740d5e6be418c316a2f2a8c436, type: 2}
+  gameConfig: {fileID: 0}
   manager: {fileID: 5371944614386547423}
   playerPrefab: {fileID: 6645698762212720202, guid: 1928bddf13aebba42a3820396c6f2ae7, type: 3}
   config: {fileID: 11400000, guid: fb80246374d65f344bab77ea54ea4651, type: 2}
@@ -2486,7 +2486,7 @@ MonoBehaviour:
   - {fileID: 5615531674779222017}
   - {fileID: 3705024571525141064}
   - {fileID: 4553928034387256919}
-  gameConfig: {fileID: 11400000, guid: 89467c740d5e6be418c316a2f2a8c436, type: 2}
+  gameConfig: {fileID: 0}
 --- !u!1 &5615531674779222017
 GameObject:
   m_ObjectHideFlags: 0
@@ -3148,9 +3148,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4a245b44f02e5084dbfe19b86f0d0a2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkpointBatch: {fileID: 0}
   raceConfig: {fileID: 0}
-  players: []
-  checkpoints: []
 --- !u!1 &6886906231503621570
 GameObject:
   m_ObjectHideFlags: 0
